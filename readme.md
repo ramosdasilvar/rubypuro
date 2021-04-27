@@ -32,8 +32,13 @@
 + do/while(loop)
 
 ### programas criados para auxiliar aprendizagem
-calc.rb = Recebe dois numeros inteiros e retorna a soma, subtração e divisão
-hello = Recebe nome, sobrenome e idade retorna o valor na frase: "Hello World NOME SOBRENOME, você tem IDADE anos de idade"
++ calc.rb = Recebe dois numeros inteiros e retorna a soma, subtração e divisão
++ hello.rb = Recebe nome, sobrenome e idade retorna o valor na frase: "Hello World NOME SOBRENOME, você tem IDADE anos de idade"
++ if.rb = Condicional se dia for igual a sábado retorna comida = Feijoada.
++ else.rb = Condicional se dia for igual a sábado retorna comida = Feijoada, senão retorna comida = Lingua de cobra.
++ elseif.rb = Condicional se dia for igual a sábado retorna comida = Feijoada, senão se dia igual segunda comida = Lingua de cobra, senão retorna comida = hamburguer.
++ case.rb = Condicional, recebe mês de nascimento. Se mês entre 1 e 3 informa nascimento no inicio do ano, se mês de nascimento entre 4 e 8 informa nascimento em meados do ano senão retorna nascimento no final do ano.
+
 
 ##Tecnologias utilizadas:
 + Ruby 2.7.3
