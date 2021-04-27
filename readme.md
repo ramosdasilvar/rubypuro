@@ -1,6 +1,6 @@
 <h1>Aprendendo sobre ruby ♦️ </h1>
 
-Em andamendo...⚠️
+## Em andamendo...⚠️
 
 ### Tipagem de variaveis em ruby
 + int = 10
@@ -11,7 +11,6 @@ Em andamendo...⚠️
 + symbol = :simbol
 
 ### Verificar o tipo de uma variável
-
 + int.class
 + string.class
 + float.class
@@ -19,10 +18,22 @@ Em andamendo...⚠️
 + hash.class
 + symbol.class
 
-### 
+### Estrutura de controle condicional
++ if
++ else
++ elseif
++ unless
++ case
+
+### Estrutura de iteração
++ for
++ while
++ times
++ do/while(loop)
+
+### programas criados para auxiliar aprendizagem
 calc.rb = Recebe dois numeros inteiros e retorna a soma, subtração e divisão
 hello = Recebe nome, sobrenome e idade retorna o valor na frase: "Hello World NOME SOBRENOME, você tem IDADE anos de idade"
 
-Tecnologias utilizadas:
-
+##Tecnologias utilizadas:
 + Ruby 2.7.3

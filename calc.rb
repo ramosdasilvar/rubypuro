@@ -1,8 +1,11 @@
+# frozen_string_literal: true
 
-print "Digite o primeiro numero inteiro: "
+print 'Digite o primeiro numero inteiro: '
+
 number1 = gets.chomp.to_i
 
-print "Digite o segundo numero inteiro: "
+print 'Digite o segundo numero inteiro: '
+
 number2 = gets.chomp.to_i
 
 adicao = number1 + number2
