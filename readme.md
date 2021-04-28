@@ -43,6 +43,7 @@
 + loop.rb = Imprime o contador e acrescenta 1 ao contador pare quando o contador atingir 10.
 + times.rb = Imprime hello 10 vezes
 + age.rb = Apresenta opções para selecionar e calcular idade
++ calculadora.rb = um pouco melhor que "calc.rb", recebe dois numeros e permite informar qual operador será usado. Retorna o resultado
 
 ## Tecnologias utilizadas:
 + Ruby 2.7.3
